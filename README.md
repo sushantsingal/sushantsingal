@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://visionvalut.netlify.app/](https://visionvalut.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://visionvalut.netlify.app/)](https://explore-sushant.netlify.app/)
 
 - 📫 How to reach me **sushantsingal42@gmail.com**
 
